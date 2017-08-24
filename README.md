@@ -1,0 +1,1 @@
+# jquery-image-magnifying-plugin-demo
